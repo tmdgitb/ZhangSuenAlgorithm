@@ -1,3 +1,2 @@
 # ZhangSuenAlgorithm
-Thinning method - Erode
-Maven Project
+Thinning method - Maven Project
